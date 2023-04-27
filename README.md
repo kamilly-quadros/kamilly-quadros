@@ -3,9 +3,12 @@
 - 🔭 Trainee developer
 - 😄 Pronouns: she/her
 
+<a href="https://github.com/kamilly-quadros">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamilly-quadros&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilly-quadros&layout=compact&langs_count=7&theme=omni"/>
+
 ![](https://komarev.com/ghpvc/?username=kamilly-quadros&color=ff69b4&style=for-the-badge&label=Visitas+ao+meu+Perfil)
 
-![Snake animation](https://github.com/kamilly-quadros/kamilly-quadros/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href="https://instagram.com/virtual_kami" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
