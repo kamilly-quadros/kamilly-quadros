@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kamilly and I'm a Programmer, from Brazil.</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Kamilly.)](https://git.io/typing-svg)
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Programming GIF" />
 
 ###
 
@@ -47,16 +47,11 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kamillyquadros/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
-
-<div class="tenor-gif-embed" data-postid="26065234" data-share-method="host" data-aspect-ratio="0.803125" data-width="100%">
-  <a href="https://tenor.com/view/laptop-gif-26065234"><a href="https://tenor.com/search/laptop-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
-    
-  </script>
-
-###
